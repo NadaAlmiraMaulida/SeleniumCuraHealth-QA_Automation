@@ -1,10 +1,10 @@
 # Selenium Automation – CURA Health Project
 
-This project demonstrates a structured End-to-End (E2E) automation implementation using Selenium WebDriver and TestNG to test the CURA Healthcare Service web application.
+This project demonstrates a automation implementation using Selenium WebDriver and TestNG to test the CURA Healthcare Service web application.
 
 The automation simulates real user behavior by performing essential flows such as login validation (positive & negative scenarios) and appointment booking. Each interaction is validated using TestNG assertions to ensure the application behaves as expected.
 
-In addition to functional validation, this project showcases best practices in UI automation including proper test structure, clean setup & teardown using TestNG annotations, and reliable locator strategies. This project reflects practical hands-on experience in building maintainable and reliable UI automation tests using Java-based frameworks.
+In addition to functional validation, this project showcases best practices in UI automation including proper test structure, clean setup & teardown using TestNG annotations, and reliable locator strategies. This project reflects practical hands on experience in building maintainable and reliable UI automation tests using Java based frameworks.
 
 ---
 
